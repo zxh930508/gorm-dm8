@@ -4,8 +4,8 @@ go 1.17
 
 require (
 	gitee.com/chunanyong/dm v1.8.12
-	github.com/emirpasic/gods v1.12.0
-	github.com/thoas/go-funk v0.9.1
+	github.com/emirpasic/gods v1.18.1
+	github.com/thoas/go-funk v0.9.3
 	gorm.io/gorm v1.23.4
 )
 
