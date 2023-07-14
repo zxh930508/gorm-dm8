@@ -1,12 +1,12 @@
-module github.com/encircles/gorm-dm8
+module github.com/zxh930508/gorm-dm8
 
 go 1.17
 
 require (
-	gitee.com/chunanyong/dm v1.8.3
+	gitee.com/chunanyong/dm v1.8.12
 	github.com/emirpasic/gods v1.12.0
 	github.com/thoas/go-funk v0.9.1
-	gorm.io/gorm v1.22.4
+	gorm.io/gorm v1.23.4
 )
 
 require (
